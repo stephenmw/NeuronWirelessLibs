@@ -197,7 +197,7 @@ HID_COLLECTION_END                            \
 #define KEYBITS_PADDING
 #endif
 
-#define HID_DEFY_REPORT_DESCRIPTOR( usage_raw ) {                                                                                           \
+#define HID_DEFY_COMMON_REPORT_DESCRIPTOR \
     D_USAGE_PAGE, D_PAGE_GENERIC_DESKTOP, D_USAGE, D_USAGE_KEYBOARD, D_COLLECTION, D_APPLICATION, D_REPORT_ID, HID_REPORTID_NKRO_KEYBOARD,      \
     D_USAGE_PAGE, D_PAGE_KEYBOARD,                                                                                                              \
                                                                                                                                                 \
@@ -227,8 +227,11 @@ HID_COLLECTION_END                            \
                                                                                                                                                 \
     TUD_HID_REPORT_DESC_MOUSE(HID_REPORT_ID(REPORT_ID_MOUSE)),                                                                                  \
     TUD_HID_REPORT_DESC_CONSUMER_DYGMA(HID_REPORT_ID(REPORT_ID_CONSUMER_CONTROL)),                                                              \
-    TUD_HID_REPORT_DESC_SYSTEM_CONTROL(HID_REPORT_ID(REPORT_ID_SYSTEM_CONTROL)),                                                                \
-    TUD_HID_REPORT_DESC_GENERIC_INOUT_DYGMA(OUTPUT_REPORT_LEN_RAW, usage_raw, HID_REPORT_ID(REPORT_ID_RAW))                                                      \
+    TUD_HID_REPORT_DESC_SYSTEM_CONTROL(HID_REPORT_ID(REPORT_ID_SYSTEM_CONTROL))
+
+#define HID_DEFY_REPORT_DESCRIPTOR(usage_raw) { \
+    HID_DEFY_COMMON_REPORT_DESCRIPTOR, \
+    TUD_HID_REPORT_DESC_GENERIC_INOUT_DYGMA(OUTPUT_REPORT_LEN_RAW, usage_raw, HID_REPORT_ID(REPORT_ID_RAW)) \
 }
 
 #endif // HID_h

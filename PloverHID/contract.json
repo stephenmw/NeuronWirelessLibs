@@ -1,0 +1,322 @@
+[
+  {
+    "index": 0,
+    "code": 57344,
+    "name": "S1-"
+  },
+  {
+    "index": 1,
+    "code": 57345,
+    "name": "T-"
+  },
+  {
+    "index": 2,
+    "code": 57346,
+    "name": "K-"
+  },
+  {
+    "index": 3,
+    "code": 57347,
+    "name": "P-"
+  },
+  {
+    "index": 4,
+    "code": 57348,
+    "name": "W-"
+  },
+  {
+    "index": 5,
+    "code": 57349,
+    "name": "H-"
+  },
+  {
+    "index": 6,
+    "code": 57350,
+    "name": "R-"
+  },
+  {
+    "index": 7,
+    "code": 57351,
+    "name": "A-"
+  },
+  {
+    "index": 8,
+    "code": 57352,
+    "name": "O-"
+  },
+  {
+    "index": 9,
+    "code": 57353,
+    "name": "*1"
+  },
+  {
+    "index": 10,
+    "code": 57354,
+    "name": "-E"
+  },
+  {
+    "index": 11,
+    "code": 57355,
+    "name": "-U"
+  },
+  {
+    "index": 12,
+    "code": 57356,
+    "name": "-F"
+  },
+  {
+    "index": 13,
+    "code": 57357,
+    "name": "-R"
+  },
+  {
+    "index": 14,
+    "code": 57358,
+    "name": "-P"
+  },
+  {
+    "index": 15,
+    "code": 57359,
+    "name": "-B"
+  },
+  {
+    "index": 16,
+    "code": 57360,
+    "name": "-L"
+  },
+  {
+    "index": 17,
+    "code": 57361,
+    "name": "-G"
+  },
+  {
+    "index": 18,
+    "code": 57362,
+    "name": "-T"
+  },
+  {
+    "index": 19,
+    "code": 57363,
+    "name": "-S"
+  },
+  {
+    "index": 20,
+    "code": 57364,
+    "name": "-D"
+  },
+  {
+    "index": 21,
+    "code": 57365,
+    "name": "-Z"
+  },
+  {
+    "index": 22,
+    "code": 57366,
+    "name": "#1"
+  },
+  {
+    "index": 23,
+    "code": 57367,
+    "name": "S2-"
+  },
+  {
+    "index": 24,
+    "code": 57368,
+    "name": "*2"
+  },
+  {
+    "index": 25,
+    "code": 57369,
+    "name": "*3"
+  },
+  {
+    "index": 26,
+    "code": 57370,
+    "name": "*4"
+  },
+  {
+    "index": 27,
+    "code": 57371,
+    "name": "#2"
+  },
+  {
+    "index": 28,
+    "code": 57372,
+    "name": "#3"
+  },
+  {
+    "index": 29,
+    "code": 57373,
+    "name": "#4"
+  },
+  {
+    "index": 30,
+    "code": 57374,
+    "name": "#5"
+  },
+  {
+    "index": 31,
+    "code": 57375,
+    "name": "#6"
+  },
+  {
+    "index": 32,
+    "code": 57376,
+    "name": "#7"
+  },
+  {
+    "index": 33,
+    "code": 57377,
+    "name": "#8"
+  },
+  {
+    "index": 34,
+    "code": 57378,
+    "name": "#9"
+  },
+  {
+    "index": 35,
+    "code": 57379,
+    "name": "#A"
+  },
+  {
+    "index": 36,
+    "code": 57380,
+    "name": "#B"
+  },
+  {
+    "index": 37,
+    "code": 57381,
+    "name": "#C"
+  },
+  {
+    "index": 38,
+    "code": 57382,
+    "name": "X1"
+  },
+  {
+    "index": 39,
+    "code": 57383,
+    "name": "X2"
+  },
+  {
+    "index": 40,
+    "code": 57384,
+    "name": "X3"
+  },
+  {
+    "index": 41,
+    "code": 57385,
+    "name": "X4"
+  },
+  {
+    "index": 42,
+    "code": 57386,
+    "name": "X5"
+  },
+  {
+    "index": 43,
+    "code": 57387,
+    "name": "X6"
+  },
+  {
+    "index": 44,
+    "code": 57388,
+    "name": "X7"
+  },
+  {
+    "index": 45,
+    "code": 57389,
+    "name": "X8"
+  },
+  {
+    "index": 46,
+    "code": 57390,
+    "name": "X9"
+  },
+  {
+    "index": 47,
+    "code": 57391,
+    "name": "X10"
+  },
+  {
+    "index": 48,
+    "code": 57392,
+    "name": "X11"
+  },
+  {
+    "index": 49,
+    "code": 57393,
+    "name": "X12"
+  },
+  {
+    "index": 50,
+    "code": 57394,
+    "name": "X13"
+  },
+  {
+    "index": 51,
+    "code": 57395,
+    "name": "X14"
+  },
+  {
+    "index": 52,
+    "code": 57396,
+    "name": "X15"
+  },
+  {
+    "index": 53,
+    "code": 57397,
+    "name": "X16"
+  },
+  {
+    "index": 54,
+    "code": 57398,
+    "name": "X17"
+  },
+  {
+    "index": 55,
+    "code": 57399,
+    "name": "X18"
+  },
+  {
+    "index": 56,
+    "code": 57400,
+    "name": "X19"
+  },
+  {
+    "index": 57,
+    "code": 57401,
+    "name": "X20"
+  },
+  {
+    "index": 58,
+    "code": 57402,
+    "name": "X21"
+  },
+  {
+    "index": 59,
+    "code": 57403,
+    "name": "X22"
+  },
+  {
+    "index": 60,
+    "code": 57404,
+    "name": "X23"
+  },
+  {
+    "index": 61,
+    "code": 57405,
+    "name": "X24"
+  },
+  {
+    "index": 62,
+    "code": 57406,
+    "name": "X25"
+  },
+  {
+    "index": 63,
+    "code": 57407,
+    "name": "X26"
+  }
+]
