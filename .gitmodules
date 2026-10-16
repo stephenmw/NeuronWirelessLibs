@@ -10,7 +10,7 @@
 	url = git@github.com:Dygmalab/Arduino_NRF5.git
 [submodule "Ble_composite_dev"]
 	path = Ble_composite_dev
-	url = git@github.com:Dygmalab/Ble_composite_dev.git
+	url = https://github.com/stephenmw/Ble_composite_dev.git
 [submodule "rf_host_device/rf_host_device"]
 	path = rf_host_device/rf_host_device
 	url = git@github.com:Dygmalab/rf_host_device.git
@@ -20,5 +20,5 @@
 	url = git@github.com:Dygmalab/NeuronLedLibrary.git
 [submodule "kaleidoscope_adapter"]
 	path = kaleidoscope_adapter
-	url = git@github.com:Dygmalab/kaleidoscope_adapter.git
-	branch = main
+	url = https://github.com/stephenmw/kaleidoscope_adapter.git
+	branch = ploverhid-support
